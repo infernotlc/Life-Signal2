@@ -8,5 +8,6 @@
         <li><strong>AI-Powered Analysis</strong>: Uses a trained AI model to differentiate between falls and normal activities.</li>
         <li><strong>Alert System</strong>: Sends alerts to designated contacts in case of a fall.</li>
         <li><strong>Data Logging</strong>: Records sensor data and fall incidents for later analysis.</li>
+        ! This project is under development later features are collecting datas from wear os watches !
     </ul>
 
