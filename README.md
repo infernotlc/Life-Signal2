@@ -10,4 +10,5 @@
         <li><strong>Data Logging</strong>: Records sensor data and fall incidents for later analysis.</li>
         ! This project is under development later features are collecting datas from wear os watches !
     </ul>
+![1](https://github.com/infernotlc/Life-Signal2/assets/70065773/59197003-602c-496c-b32f-0859a8cdfc2c)
 
